@@ -1,0 +1,16 @@
+{
+  "NAME": "Austrian Space Agency",
+  "URL": "https://raw.githubusercontent.com/ducakar/TextureReplacer/master/GameData/TextureReplacer/TextureReplacer.version",
+  "DOWNLOAD": "https://github.com/brama0309/AustrianSpaceAgency/releases",
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 0,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 1,
+    "PATCH": 3
+  }
+}
